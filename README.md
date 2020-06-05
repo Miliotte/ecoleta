@@ -32,7 +32,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [Nodejs](https://nodejs.org/en/)
 - [NPM](https://www.npmjs.com/)
 - [Sqlite](https://www.sqlite.org/index.html)
-- [NunJuccks](https://mozilla.github.io/nunjucks/)
+- [NunJucks](https://mozilla.github.io/nunjucks/)
 
 ## 🗂 Como baixar e iniciar o projeto
 
