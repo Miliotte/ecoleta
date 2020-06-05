@@ -39,7 +39,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/grioos/ecoleta
+    $ git clone https://github.com/miliotte/ecoleta
 
     # Entrar no diretório
     $ cd ecoleta
