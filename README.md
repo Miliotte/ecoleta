@@ -51,4 +51,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     $ npm start
 ```
 
-Feito com :black_heart: by [Ricardo Miliotte](https://www.linkedin.com/in/ricardo-miliotte-cruz-a430a0166/)
+Desenvolvido por: [Ricardo Miliotte](https://www.linkedin.com/in/ricardo-miliotte-cruz-a430a0166/)
